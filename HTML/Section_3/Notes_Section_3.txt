@@ -1,0 +1,30 @@
+LIST--it is a collection of elements . It's of three types--
+
+    Ordered List -- displays lists in numbered format .
+        Represented by -- <ol></ol>
+    Unordered List -- displays lists in bullet points.
+        Represented by -- <ul></ul>
+    <li> </li> is used btw Ordered list and Unordered list.
+    Description List -- Used for the terms and their description.
+        Represented by -- <dl></dl>
+        text is enclosed by --<dt> </dt>
+        description is enclosed by -- <dd> </dd>
+    It can also perform nesting.like --
+        <ls>
+            <ul>
+                <hr>
+            </ul>
+        </ls>
+
+ANCHOR ELEMENT -- is used to create hyperlinks—clickable links that take you to another page, section, or resource.
+    <a attribute=value> Content </a>
+
+    Attribute--It is an extra info added to an element to define its behaviour,appearance or provide metadata.000000
+        <tag attribute=value anotherattribute=value>Content</a>
+
+        href--Hypertext REFrence is an attribute used in the anchor tag to specify the destination of a hyperlink.
+
+    Image -- <img attribute=value />
+        it is a void element.
+        <img src="url" alt="" />
+            here src stands for source and alt is alternating text.

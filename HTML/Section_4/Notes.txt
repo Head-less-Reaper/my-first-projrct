@@ -1,0 +1,42 @@
+FILE PATH--It tells the OS where the file or folder is located.
+    It also access the hard drive .
+
+    File: a single unit of data stored on your computer. .txt,.jpeg etc.
+    Folder: (Directory) its a container which holds all the files in one place.
+
+    Absolute file path: it's long and is used to access the file using the root file.
+                        ex--C:/computer/downloads/images/dog.png
+    Relative file path: it's shorter in length and used to used to access the file using your current directory.
+                        ex--/images/dog.png
+    Special Charecters: it is used either go upward from a directory in a file path or to access other element in same directory.
+                        to move upward we use-- ../images/dog.png
+                        to access other element in same directory-- .cat.png
+
+WEB PAGES-- these are the documents on WWW which can be accessed through a browser.
+    each web page has its own unique URL. 
+
+HTML BOILERPLATE--pre written reusable block of code.
+        
+        <!DOCTYPE html> //tells which version of HTML we are using.
+        
+        <html lang="en"> //it marks the beginning of the html code and lang="en" tells that lang. of the page is in english.
+        <head>//contain metadata and other important information about the web page, but not the content that users see directly on the page.
+
+            //meta tags describe and give info about otherdata. 
+            <meta charset="UTF-8">//tells the browser what character encoding to use when displaying the web page.
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"> //controls how your web page looks on different screen sizes, like phones, tablets, and desktops.
+            
+            <title>Document</title>//sets the title of the webpage.
+        </head>
+        <body> // visible content of webpage.
+            
+        </body>
+        </html>
+
+Class -- It is an attribute which is a collection of elements grouped together in order to perfom similar styling of CSS.
+    <elment class="class name"> content </element>
+
+
+WEB HOSTING -- It is creating your file on the internet so that anyone can access it.
+    right now we doing it through github.
+    

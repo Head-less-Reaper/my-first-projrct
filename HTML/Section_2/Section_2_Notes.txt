@@ -1,0 +1,17 @@
+HTML -- Hyper Text Markup language
+    It is used to create and structure webpages and also linking multiple webpages. 
+    To create a webpage we use HTML tags.
+    Elements -- Its  a combination of tags and content stored inside the tags.
+        <h1>Heading</h1>
+
+Heading Elements -- <h1></h1>,<h2></h2>....<h6></h6>
+
+Paragraph Element -- <p></p>
+
+Void Elements--forbidden from putting any content inside the tag.
+    Horizontal Rule Element--<hr /> or <hr >
+        Usually used as seprator, seprates paragraph by a line.
+    Break Element--<br /> or <br >
+        It breaks the paragraph in such a way that the content remains in the same paragraph but in a different line.
+        ex.--used in poems.   
+    
